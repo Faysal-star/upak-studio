@@ -1,0 +1,72 @@
+{
+  "format": "DPAK v1",
+  "size": 3805,
+  "crc32": "0x58aeb57b",
+  "packId": "0x0123456789abcdef",
+  "tocCount": 6,
+  "assets": [
+    {
+      "assetId": 1,
+      "type": 6,
+      "nameHash": "0x304c31d2",
+      "offset": 224,
+      "length": 12
+    },
+    {
+      "assetId": 2,
+      "type": 1,
+      "nameHash": "0x78145c44",
+      "offset": 236,
+      "length": 2073
+    },
+    {
+      "assetId": 3,
+      "type": 1,
+      "nameHash": "0x10e428b4",
+      "offset": 2309,
+      "length": 364
+    },
+    {
+      "assetId": 4,
+      "type": 1,
+      "nameHash": "0xe19713dd",
+      "offset": 2673,
+      "length": 1040
+    },
+    {
+      "assetId": 5,
+      "type": 2,
+      "nameHash": "0x0914d819",
+      "offset": 3713,
+      "length": 44
+    },
+    {
+      "assetId": 6,
+      "type": 3,
+      "nameHash": "0x07617589",
+      "offset": 3757,
+      "length": 48
+    }
+  ],
+  "sprites": {
+    "grad32": {
+      "assetId": 2,
+      "nameHash": "0x78145c44",
+      "rawSize": 2048,
+      "decodedFnv": "0x55a3e745"
+    },
+    "circle32": {
+      "assetId": 3,
+      "nameHash": "0x10e428b4",
+      "rawSize": 2176,
+      "decodedFnv": "0x6ba9a095"
+    },
+    "checker32": {
+      "assetId": 4,
+      "nameHash": "0xe19713dd",
+      "rawSize": 1024,
+      "decodedFnv": "0x1c960d85"
+    }
+  },
+  "note": "decodedFnv = FNV-1a 32 over the decompressed payload bytes (concatenated pixel planes)"
+}

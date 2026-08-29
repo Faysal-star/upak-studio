@@ -1,0 +1,16 @@
+{
+  "name": "dpak-cli",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "DPAK v1 asset pack encoder/inspector for DeskPet",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "fixtures": "node gen-fixtures.mjs",
+    "demo": "node gen-demo.mjs",
+    "test": "node test.mjs"
+  },
+  "dependencies": {
+    "pngjs": "^7.0.0"
+  }
+}

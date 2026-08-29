@@ -1,0 +1,10 @@
+# dependencies and build output
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+firmware/.pio/
+.vscode/
+# OS / editor
+.DS_Store
+Thumbs.db
