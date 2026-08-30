@@ -1,0 +1,10 @@
+{
+  "name": "hal",
+  "version": "1.0.0",
+  "description": "DeskPet hardware capability layer — pure C99 core (caps/hwinfo, event queue, touch classifier) + ESP32 peripheral glue",
+  "build": {
+    "srcDir": "."
+  },
+  "platforms": "*",
+  "frameworks": "*"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "DeskPet mini-game cores (Snake) — pure C99, native-testable",
+  "build": {
+    "srcDir": ".",
+    "flags": ["-std=gnu99"]
+  },
+  "platforms": "*",
+  "frameworks": "*"
+}

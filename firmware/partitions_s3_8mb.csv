@@ -1,0 +1,10 @@
+# ESP32-S3-DevKitC-1, 8MB flash (safe for all N8*/N16* variants).
+# OTA A/B + LittleFS assets. Subtype 'spiffs' is what the partition tool and
+# uploadfs expect for a LittleFS image; the label 'assets' is what firmware mounts.
+# Name,   Type, SubType, Offset,   Size,     Flags
+nvs,      data, nvs,     0x9000,   0x5000,
+otadata,  data, ota,     0xe000,   0x2000,
+app0,     app,  ota_0,   0x10000,  0x200000,
+app1,     app,  ota_1,   0x210000, 0x200000,
+assets,   data, spiffs,  0x410000, 0x3E0000,
+coredump, data, coredump,0x7F0000, 0x10000,

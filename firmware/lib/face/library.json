@@ -1,0 +1,12 @@
+{
+  "name": "face",
+  "version": "1.0.0",
+  "description": "DeskPet procedural face engine + software RGB565 renderer (pure C99)",
+  "dependencies": [{ "name": "dpak" }],
+  "build": {
+    "srcDir": ".",
+    "flags": ["-std=gnu99"]
+  },
+  "platforms": "*",
+  "frameworks": "*"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dpak",
+  "version": "1.0.0",
+  "description": "DPAK v1 asset pack decoder (pure C99 + bundled LZ4 block decoder)",
+  "build": {
+    "srcDir": ".",
+    "flags": ["-std=gnu99"]
+  },
+  "platforms": "*",
+  "frameworks": "*"
+}
