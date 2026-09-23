@@ -67,3 +67,20 @@ are the verified state of 2026-09-23.
 ## License
 
 MIT, see [LICENSE](LICENSE). Third-party dependencies (LovyanGFX, Next.js, React, esptool-js and others) keep their own licenses.
+
+## Citation
+
+If you use this code or build on it, please cite it as:
+
+> Faysal Mahmud. *DeskPet: base firmware and web studio for a microcontroller desk companion display*, version 0.3.0, 2026. https://github.com/USERNAME/deskpet-demo
+
+```bibtex
+@software{mahmud_deskpet_2026,
+  author  = {Mahmud, Faysal},
+  title   = {{DeskPet}: Base Firmware and Web Studio for a Microcontroller Desk Companion Display},
+  year    = {2026},
+  version = {0.3.0},
+  url     = {https://github.com/USERNAME/deskpet-demo},
+  license = {MIT}
+}
+```
