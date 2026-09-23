@@ -1,5 +1,5 @@
-# uPack Studio — micro controller display: base firmware and web studio
-
+# uPack Studio 
+## Animator and Base Firmware for MCU display
 [![uPack Studio](docs/lfl.jpg)](https://github.com/Faysal-star/upak-studio)
 
 uPack (micro pack) Studio is an asset pack pipeline built on an ESP32-S3 with a 240×240 ST7789 display. A browser studio lets you
