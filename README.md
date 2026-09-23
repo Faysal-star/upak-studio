@@ -68,7 +68,7 @@ are the verified state of 2026-09-23.
 
 ## License
 
-MIT, see [LICENSE](LICENSE). Third-party dependencies (LovyanGFX, Next.js, React, esptool-js and others) keep their own licenses.
+Apache License 2.0, see [LICENSE](LICENSE). If you redistribute this code or a work derived from it, keep the [NOTICE](NOTICE) file, which names the author and links this repository, and mark the files you changed (Section 4 of the License). Third-party dependencies (LovyanGFX, Next.js, React, esptool-js and others) keep their own licenses.
 
 ## Citation
 
@@ -83,6 +83,6 @@ If you use this code or build on it, please cite it as:
   year    = {2026},
   version = {0.3.0},
   url     = {https://github.com/Faysal-star/upak-studio},
-  license = {MIT}
+  license = {Apache-2.0}
 }
 ```

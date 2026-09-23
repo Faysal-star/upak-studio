@@ -1,0 +1,13 @@
+uPack Studio: animator and base firmware for MCU displays
+Copyright 2026 Faysal Mahmud
+
+Original repository: https://github.com/Faysal-star/upak-studio
+
+This product includes software developed by Faysal Mahmud
+(https://github.com/Faysal-star/upak-studio), licensed under the Apache License,
+Version 2.0. Redistributions of this work or of derivative works must retain this
+NOTICE file as required by Section 4(d) of the License.
+
+Third-party components used at build time (for example LovyanGFX, Next.js,
+React and esptool-js) are distributed under their own licenses and are not
+covered by this notice.
