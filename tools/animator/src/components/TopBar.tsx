@@ -13,7 +13,7 @@ export default function TopBar({ onSend }: { onSend: () => void }) {
     <header className="topbar">
       <div className="wordmark">
         <span className="logoDot" />
-        DeskPet <em>Studio</em>
+        uPack <em>Studio</em>
       </div>
 
       <input
