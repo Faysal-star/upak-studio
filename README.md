@@ -74,7 +74,7 @@ MIT, see [LICENSE](LICENSE). Third-party dependencies (LovyanGFX, Next.js, React
 
 If you use this code or build on it, please cite it as:
 
-> Faysal Mahmud. *uPack Studio: base firmware and web studio for a microcontroller desk companion display*, version 0.3.0, 2026. https://github.com/USERNAME/deskpet-demo
+> Faysal Mahmud. *uPack Studio: base firmware and web studio for a microcontroller desk companion display*, version 0.3.0, 2026. https://github.com/Faysal-star/upak-studio
 
 ```bibtex
 @software{mahmud_upack_2026,
