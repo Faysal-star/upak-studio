@@ -63,3 +63,7 @@ CRC-checked chunks, written atomically on the device, and hot-reloaded on the di
 The project started on 2026-08-29. This repository was assembled on 2026-09-23 from the private codebase; its
 commits are dated to the day each component was first built, as recorded in the project log, and the file contents
 are the verified state of 2026-09-23.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Third-party dependencies (LovyanGFX, Next.js, React, esptool-js and others) keep their own licenses.
