@@ -1,14 +1,16 @@
-# DeskPet — desk companion display: base firmware and web studio
+# uPack Studio — micro controller display: base firmware and web studio
 
-DeskPet is a small desk companion built on an ESP32-S3 with a 240×240 ST7789 display. A browser studio lets you
+[![uPack Studio](docs/lfl.jpg)](https://github.com/Faysal-star/upak-studio)
+
+uPack (micro pack) Studio is an asset pack pipeline built on an ESP32-S3 with a 240×240 ST7789 display. A browser studio lets you
 draw and animate artwork, preview it exactly as the device will render it, and send it to the device over USB in a
 few seconds, with no drivers and no reflashing. The device shows a procedural animated face and runs small scenes
 (a Snake game is included).
 
-This repository is a minimal public slice of a larger private codebase. It contains the parts that are stable and
+*This repository is a minimal public slice of a larger private codebase. It contains the parts that are stable and
 verified on hardware: the base firmware, the web studio with its uploader and flasher, and the asset format with its
 reference encoder. The rendering research built on top of this platform is part of a manuscript in preparation and is
-not included here.
+not included here.*
 
 ## What is in this repository
 
@@ -72,15 +74,15 @@ MIT, see [LICENSE](LICENSE). Third-party dependencies (LovyanGFX, Next.js, React
 
 If you use this code or build on it, please cite it as:
 
-> Faysal Mahmud. *DeskPet: base firmware and web studio for a microcontroller desk companion display*, version 0.3.0, 2026. https://github.com/USERNAME/deskpet-demo
+> Faysal Mahmud. *uPack Studio: base firmware and web studio for a microcontroller desk companion display*, version 0.3.0, 2026. https://github.com/USERNAME/deskpet-demo
 
 ```bibtex
-@software{mahmud_deskpet_2026,
+@software{mahmud_upack_2026,
   author  = {Mahmud, Faysal},
-  title   = {{DeskPet}: Base Firmware and Web Studio for a Microcontroller Desk Companion Display},
+  title   = {{uPack Studio}: Base Firmware and Web Studio for a Microcontroller Desk Companion Display},
   year    = {2026},
   version = {0.3.0},
-  url     = {https://github.com/USERNAME/deskpet-demo},
+  url     = {https://github.com/Faysal-star/upak-studio},
   license = {MIT}
 }
 ```
